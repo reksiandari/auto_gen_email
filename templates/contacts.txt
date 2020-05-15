@@ -1,2 +1,3 @@
-gc  reksi@growthcenter.id
-reksi  andarireksi@yahoo.com
+mentor algoritma mentor@algorit.ma
+gc reksi@growthcenter.id
+reksi andarireksi@yahoo.com

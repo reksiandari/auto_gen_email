@@ -5,3 +5,4 @@ This is an auto-generated email, reporting Facebook ads campaign performance for
 Please find the complete script on my Github: ${GITHUB_LINK}
 
 Best regards,
+Andari Reksi

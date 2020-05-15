@@ -1,6 +1,6 @@
-from send_email import extract_contacts
+from send_email import create_template
 import fire
 
 if __name__ == '__main__':
   # Export to Fire
-  fire.Fire(extract_contacts)
+  fire.Fire(create_template)
